@@ -16,13 +16,14 @@ This project focuses on leveraging NLP methodologies to analyze financial texts,
 
 
 ## 📁 Project Structure
+
 NLP-in-Finance/
-├── data/                 # Raw and processed datasets
-├── notebooks/            # Jupyter notebooks for analysis
-├── scripts/              # Python scripts for data processing
-├── models/               # Saved machine learning models
-├── requirements.txt      # List of dependencies
-└── README.md             # Project documentation
+├── data/                 
+├── notebooks/            
+├── scripts/            
+├── models/              
+├── requirements.txt     
+└── README.md             
 
 ## 🚀 Getting Started
 
