@@ -9,10 +9,10 @@ This project focuses on leveraging NLP methodologies to analyze financial texts,
 + __Programming Language__: Python
 + __Libraries & Tools__:
 
-  -pandas, numpy for data manipulation
-  -nltk, spaCy for natural language processing
-  -scikit-learn for machine learning models
-  -matplotlib, seaborn for data visualization
+  - pandas, numpy for data manipulation
+  - nltk, spaCy for natural language processing
+  - scikit-learn for machine learning models
+  - matplotlib, seaborn for data visualization
 
 
 ## 📁 Project Structure
