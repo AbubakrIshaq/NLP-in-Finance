@@ -18,6 +18,7 @@ This project focuses on leveraging NLP methodologies to analyze financial texts,
 ## 📁 Project Structure
 
 NLP-in-Finance/
+
 ├── data/                 
 ├── notebooks/            
 ├── scripts/            
